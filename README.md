@@ -14,7 +14,7 @@ Finished.
 
 ## Setup
 To run this project, save files locally & run within a browser of choice.
-HTML Preview - 
+HTML Preview - https://htmlpreview.github.io/?https://github.com/Chris-Wight/Project_Company_Homepage/blob/main/companyHomePage.html
 
 ## Project Origin
 Codecademy portfolio project 2.
