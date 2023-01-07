@@ -27,7 +27,7 @@ body{
 }
 header{
     overflow: hidden;
-    padding: .2em 1em .2em 1em;
+    padding: 0.2em 1em .2em 1em;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -129,7 +129,7 @@ header h1 img{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../projectCompanyHomePage/images/bannerBackground.png);
+    background-image: url(./images/bannerBackground.png);
     background-size: cover;
     background-position: center;
     width: auto;
@@ -267,7 +267,7 @@ header h1 img{
 }
 .postcode-locator-article input{
     padding: 1em;
-    font-family::'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: white;
     border: solid grey 2px;
     max-width: 15em;
